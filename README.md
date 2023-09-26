@@ -29,6 +29,7 @@ Given all of the courses you want to choose several csv files with the columns: 
 	python AIcurriculum.py
 	```
 ## Contributors
+
 This project exists thanks to all people who contribute.
 
 <a href="https://github.com/shieh322/Course-Selector/graphs/contributors">
