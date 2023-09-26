@@ -5,6 +5,7 @@ Given all of the courses you want to choose several csv files with the columns: 
 | ESS100200  | 工程與系統科學探索    | 1      | W7W8   | 4           | 1                |
 | ESS103001  | 工程力學         | 3      | M5M6R5 | 3.88        | 1                |
 | ESS105000  | 能源與環境概論      | 2      | W3W4   | 4.04        | 0                |
+
 ## Getting Started
 1. Prepare all of the courses you want to choose in several csv files.
 1. clone this project
@@ -27,3 +28,8 @@ Given all of the courses you want to choose several csv files with the columns: 
 	```bash
 	python AIcurriculum.py
 	```
+## Contributors
+This project exists thanks to all people who contribute.
+<a href="https://github.com/LeoTheBestCoder/CV-Final-Project/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=LeoTheBestCoder/CV-Final-Project" />
+</a>
