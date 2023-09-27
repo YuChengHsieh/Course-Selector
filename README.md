@@ -14,19 +14,19 @@ Given all of the courses you want to choose several csv files with the columns: 
     ```
 1. Create a virtual environment with `conda`
     ```bash
-    conda create -n CS python=3.8
+    conda create -n venv python=3.8
     ```
 1. Activate the virtual environment
     ```bash 
-    conda activate CS
+    conda activate venv
     ```
 1. Install required packages
     ```bash
     pip install -r requirements.txt
     ```
-1. Run `AIcurriculum.py`
+1. Run `main.py`
 	```bash
-	python AIcurriculum.py
+	python main.py
 	```
 
 ## Contributors
