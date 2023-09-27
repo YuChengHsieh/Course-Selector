@@ -35,6 +35,6 @@ Given all of the courses you want to choose several CSV files with the columns: 
 
 This project exists thanks to all people who contribute.
 
-<a href="https://github.com/shieh322/Course-Selector/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=shieh322/Course-Selector" />
+<a href="https://github.com/YuChengHsieh/Course-Selector/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=YuChengHsieh/Course-Selector" />
 </a>
