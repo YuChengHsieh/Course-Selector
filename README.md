@@ -1,6 +1,6 @@
 # Course-Selector
 
-Given all of the courses you want to choose several CSV files with the columns: `Course No.`, `Course Title`, `Credit`, `Time`, `Average GPA`, `Compulsory or Optional`. See the example in example CSV file above. Our model will train a course selector with the Genetic Algorithm to help you choose courses optimally. The example CSV table is listed below:
+Given all of the courses you want to choose several CSV files with the columns: `Course No.`, `Course Title`, `Credit`, `Time`, `Average GPA`, `Compulsory or Optional`. See the example in the example CSV files above. Our model will train a course selector with the Genetic Algorithm to help you choose courses optimally. The example CSV table is listed below:
 | Course No. | Course Title | Credit | Time | Average GPA | Require / Option |
 | ---------- | ------------ | ------ | ------ | ----------- | ---------------- |
 | ESS100200 | 工程與系統科學探索 | 1 | W7W8 | 4 | 1 |
